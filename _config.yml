@@ -10,16 +10,16 @@ subtitle: "Researcher and Educator in Human Geography"
 url: "https://VitalieDuporge.github.io"
 
 # Masthead image
-logo: "IMG_6657.webp"
+logo: "/assets/images/IMG_6657.webp"
 
 # Favicon
-favicon: "IMG_6657.webp"
+favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
   name: Vitalie Duporge
   bio: "Researcher and Educator in Human Geography"
-  avatar: "IMG_6657.webp"
+  avatar: "/assets/images/IMG_6657.webp"
   email: vitalie.duporge@bristol.ac.uk
   location: Bristol, UK
   links:
