@@ -6,18 +6,18 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
-$serif              : "Times",serif;
-$sans-serif  : "Gils Sans Light", sans-serif;
+$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 $global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
 
 .body {
   font-family: $global-font-family;
   font-size: $type-size-2;
 }
 
-p {
+.p {
   font-family: $global-font-family;
   font-size: $type-size-2;
 }
