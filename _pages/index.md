@@ -5,6 +5,6 @@ title: "Home"
 author_profile: true
 ---
 
-Hello! I am a PhD Student in Glaciology at the University of Example, where I focus on alpine glacier dynamics and climate interactions. My research combines field observations with computational modeling to understand how glaciers respond to environmental changes.
+I am a political ecologist working with more-than-human, decolonial and critical education theories. I hold expertise researching community-led environmental movements and land-based education practices as promising responses to socioenvironmental transition. My book titled *European Ecovillages: Crisis, Hope and the Politics of Transition* will be published with Bristol University Press (BUP) in 2027.
 
-I'm passionate about polar and mountain environments, and I enjoy communicating science to diverse audiences. When I'm not working on glaciers, you might find me hiking, photography, or exploring new places.
+My broader research activities involve exploring the affective and temporal dynamics of different geographical settings, including how bodies and imaginations are shaped by diverse sensory and time-based experiences. Both my research and teaching draw on a rich history of involvement in civil society initiatives and go beyond technocratic visions of sustainability to foreground radicalism, relationality and care. 
