@@ -5,9 +5,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Site settings
-title: "Jane Smith"
-subtitle: "PhD Student in Glaciology"
-url: "https://janesmith.github.io"
+title: "Vitalie Duporge"
+subtitle: "Researcher and Educator in Human Geography"
+url: "https://VitalieDuporge.github.io"
 
 # Masthead image
 logo: "/assets/images/avatar.png"
@@ -17,10 +17,10 @@ favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
-  name: Jane Smith
-  bio: "PhD Student in Glaciology at the University of Example."
+  name: Vitalie Duporge
+  bio: "Researcher and Educator in Human Geography"
   avatar: "/assets/images/avatar.png"
-  email: jane.smith@example.com
+  email: vitalie.duporge@bristol.ac.uk
   location: Bristol, UK
   links:
     - label: "GitHub"
